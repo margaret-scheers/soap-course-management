@@ -15,3 +15,5 @@ https://github.com/margaret-scheers/springBoot
 suggested references
 http://edutechwiki.unige.ch/en/XML_Schema_tutorial_-_Basics
 https://spring.io/projects/spring-ws
+
+used wizdler to look at wsdl at localhost:8080/ws/courses/wsdl

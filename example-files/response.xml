@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<GetCourseDetailsResponse xmlns="http://in28minutes.com/courses">
+<GetCourseDetailsResponse xmlns="http://in28minutes.com/courses"
+                          xsi:schemaLocation="com.in28minutes/courses courseDetails.xsd"
+                          xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance">
     <CourseDetails>
         <id>123</id>
         <name>Spring in 28 minutes</name>

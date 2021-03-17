@@ -16,4 +16,4 @@ suggested references
 http://edutechwiki.unige.ch/en/XML_Schema_tutorial_-_Basics
 https://spring.io/projects/spring-ws
 
-used wizdler to look at wsdl at localhost:8080/ws/courses/wsdl,  put in the id (123) and press go to get response.
+used wizdler to look at wsdl at localhost:8080/ws/courses/wsdl,  put in the id (123) and press go to get response. Response is read from CourseDetailsEndpoint.java
